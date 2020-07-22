@@ -6681,11 +6681,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/danteharasz/code/aspnet-core-3-signup-verification-api/WebApi.csproj",
+      "projectUniqueName": "/Users/danteharasz/code/EmailSignUp2/WebApi.csproj",
       "projectName": "WebApi",
-      "projectPath": "/Users/danteharasz/code/aspnet-core-3-signup-verification-api/WebApi.csproj",
+      "projectPath": "/Users/danteharasz/code/EmailSignUp2/WebApi.csproj",
       "packagesPath": "/Users/danteharasz/.nuget/packages/",
-      "outputPath": "/Users/danteharasz/code/aspnet-core-3-signup-verification-api/obj/",
+      "outputPath": "/Users/danteharasz/code/EmailSignUp2/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/danteharasz/.nuget/NuGet/NuGet.Config"

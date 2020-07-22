@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Vg9I/MLbHxclfMdL4hhtoWznk7FapHgHRveXiiQ3rTO+YMwq5dVftxTi1O9c9dBpeEe19WfLHwr5wphD9bWEMw==",
+  "dgSpecHash": "eG1UFhsPPyneJGa1ktvnrIevpIiMbsSj4pvINTYLFJBrK5+79atfUcGcRqTMuFA2cU8KfIFSszw9yFBPQSn3zw==",
   "success": true,
-  "projectFilePath": "/Users/danteharasz/code/aspnet-core-3-signup-verification-api/WebApi.csproj",
+  "projectFilePath": "/Users/danteharasz/code/EmailSignUp2/WebApi.csproj",
   "expectedPackageFiles": [
     "/Users/danteharasz/.nuget/packages/automapper/10.0.0/automapper.10.0.0.nupkg.sha512",
     "/Users/danteharasz/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/8.0.0/automapper.extensions.microsoft.dependencyinjection.8.0.0.nupkg.sha512",
