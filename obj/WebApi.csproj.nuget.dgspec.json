@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/danteharasz/code/EmailSignUp2/WebApi.csproj": {}
+    "/Users/danteharasz/code/aspnet-core-3-signup-verification-api/WebApi.csproj": {}
   },
   "projects": {
-    "/Users/danteharasz/code/EmailSignUp2/WebApi.csproj": {
+    "/Users/danteharasz/code/aspnet-core-3-signup-verification-api/WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/danteharasz/code/EmailSignUp2/WebApi.csproj",
+        "projectUniqueName": "/Users/danteharasz/code/aspnet-core-3-signup-verification-api/WebApi.csproj",
         "projectName": "WebApi",
-        "projectPath": "/Users/danteharasz/code/EmailSignUp2/WebApi.csproj",
+        "projectPath": "/Users/danteharasz/code/aspnet-core-3-signup-verification-api/WebApi.csproj",
         "packagesPath": "/Users/danteharasz/.nuget/packages/",
-        "outputPath": "/Users/danteharasz/code/EmailSignUp2/obj/",
+        "outputPath": "/Users/danteharasz/code/aspnet-core-3-signup-verification-api/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/danteharasz/.nuget/NuGet/NuGet.Config"
